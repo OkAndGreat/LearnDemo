@@ -1,4 +1,4 @@
-package com.redrock.learndemo.Dialog_InterceptPattern
+package com.redrock.learndemo.dialog_InterceptPattern
 
 /**
  * Author by OkAndGreat，Date on 2021/8/27.

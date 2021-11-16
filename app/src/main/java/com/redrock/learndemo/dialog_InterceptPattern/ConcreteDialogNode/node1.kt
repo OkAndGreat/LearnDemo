@@ -1,4 +1,4 @@
-package com.redrock.learndemo.Dialog_InterceptPattern.ConcreteDialogNode
+package com.redrock.learndemo.dialog_InterceptPattern.ConcreteDialogNode
 
 import android.content.Context
 import android.graphics.Color
@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import com.redrock.learndemo.Dialog_InterceptPattern.DialogInterceptChainNode
-import com.redrock.learndemo.Dialog_InterceptPattern.dp
+import com.redrock.learndemo.dialog_InterceptPattern.DialogInterceptChainNode
+import com.redrock.learndemo.dialog_InterceptPattern.dp
 import com.redrock.learndemo.R
 
 /**

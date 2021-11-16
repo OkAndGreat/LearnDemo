@@ -1,17 +1,11 @@
-package com.redrock.learndemo.Dialog_InterceptPattern
+package com.redrock.learndemo.dialog_InterceptPattern
 
-import android.content.DialogInterface
-import android.graphics.Color
-import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
-import android.widget.Button
-import androidx.appcompat.app.AlertDialog
-import com.redrock.learndemo.Dialog_InterceptPattern.ConcreteDialogNode.node0
-import com.redrock.learndemo.Dialog_InterceptPattern.ConcreteDialogNode.node1
-import com.redrock.learndemo.Dialog_InterceptPattern.ConcreteDialogNode.node2
+import com.redrock.learndemo.dialog_InterceptPattern.ConcreteDialogNode.node0
+import com.redrock.learndemo.dialog_InterceptPattern.ConcreteDialogNode.node1
+import com.redrock.learndemo.dialog_InterceptPattern.ConcreteDialogNode.node2
 import com.redrock.learndemo.R
 
 /**

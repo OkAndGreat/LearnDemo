@@ -1,4 +1,4 @@
-package com.redrock.learndemo.Dialog_InterceptPattern
+package com.redrock.learndemo.dialog_InterceptPattern
 
 import android.annotation.SuppressLint
 import android.app.Dialog
